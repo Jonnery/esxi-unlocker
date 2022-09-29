@@ -1,8 +1,6 @@
 # macOS Unlocker V3.0.2 for VMware ESXi
 
-
 ## 1. Introduction
-
 
 Unlocker 3 for ESXi is designed for VMware ESXi 6.5, 6.7 and 7.0
 
